@@ -1,0 +1,54 @@
+﻿-------------------------------------------------------------
+
+	      AROMAT Restaurant
+
+-------------------------------------------------------------
+
+Tequila Sunrise 		1
+
+Long Island Ice Tea 		1
+
+Margarita 			1
+
+Mojito 				1
+
+Daiquiri 			1
+
+Gin and Tonic			1
+
+Manhatan 			1
+
+Old Fashioned Cocktail		1
+
+Coffee Cake 			1
+
+Red Valvet Cake 		1
+
+Cheese Cake 			1
+
+Latte 				1
+
+Grean Tea			1
+
+Cappucino			1
+
+Cold Coffee			1
+
+-------------------------------------------------------------
+
+Service Charge 		3,21
+
+-------------------------------------------------------------
+
+Tax 				2,08 ₽
+
+Sub Total 			234,24 ₽
+
+Total Cost 			236,32 ₽
+
+-------------------------------------------------------------
+
+14:37:08	09.06.2019
+
+Served by 
+Roman
